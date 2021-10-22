@@ -12,7 +12,7 @@
 
 ## HOSTED USING - [NETLIFY](https://www.netlify.com/)
 
-## LINK TO THE WEBSITE - 
+## LINK TO THE WEBSITE - https://google-2.netlify.app/search
 
 ### BUILD USING -
 
